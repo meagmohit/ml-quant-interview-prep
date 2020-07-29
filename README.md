@@ -13,7 +13,7 @@ Resume
 * CMU Spring'16 by Tom Mitchell and Nina [[Course Link]](http://www.cs.cmu.edu/~ninamf/courses/601sp15/lectures.shtml)
 * An Introduction to Statistical Learning [[Book]](https://faculty.marshall.usc.edu/gareth-james/ISL/ISLR%20Seventh%20Printing.pdf)
 * Hidden Markov Models: [[HMM Notes]](http://cs229.stanford.edu/section/cs229-hmm.pdf) 
-* 
+* CS229 Review Notes: [[Notes]](http://cs229.stanford.edu/notes/)
 
 ---
 ## Deep Learning
