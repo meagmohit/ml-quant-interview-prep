@@ -17,6 +17,7 @@ Resume
 * Other topics: [[Anomaly Detection]](http://courses.washington.edu/css581/lecture_slides/18_anomaly_detection.pdf) (find better link?)
 * Topics:
   * Dimensionality Reduction: [[PCA]](https://arxiv.org/pdf/1404.1100.pdf) [[PCA]](http://cs229.stanford.edu/notes/cs229-notes10.pdf) [[ICA]](http://cs229.stanford.edu/notes/cs229-notes11.pdf) [[Factor Analysis]](http://cs229.stanford.edu/notes/cs229-notes9.pdf)
+  * Regularization: [Summary](https://cs231n.github.io/neural-networks-2/#reg) [[L1/L2]](https://explained.ai/regularization/index.html) [[Dropout]](https://towardsdatascience.com/simplified-math-behind-dropout-in-deep-learning-6d50f3f47275) 
 
 ---
 ## Deep Learning
