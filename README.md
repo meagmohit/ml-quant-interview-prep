@@ -16,6 +16,9 @@ Resume
 * CS229 Review Notes: [[Backprop]](http://cs229.stanford.edu/notes/cs229-notes-backprop.pdf) [[DL]](http://cs229.stanford.edu/notes/cs229-notes-all/cs229-notes-deep_learning.pdf) [[Decision Trees]](http://cs229.stanford.edu/notes/cs229-notes-dt.pdf) [[Ensemble Methods]](http://cs229.stanford.edu/notes/cs229-notes-ensemble.pdf) [[Linear Regression and Classification (Supervised)]](http://cs229.stanford.edu/notes/cs229-notes1.pdf) [[Generative Learning]](http://cs229.stanford.edu/notes/cs229-notes2.pdf) [[SVM]](http://cs229.stanford.edu/notes/cs229-notes3.pdf) [[Learning Theory]](http://cs229.stanford.edu/notes/cs229-notes4.pdf) [[Regularization and Model Selection]](http://cs229.stanford.edu/notes/cs229-notes5.pdf) [[Perceptron]](http://cs229.stanford.edu/notes/cs229-notes6.pdf) [[k-means]](http://cs229.stanford.edu/notes/cs229-notes7a.pdf) [[GMMs]](http://cs229.stanford.edu/notes/cs229-notes7b.pdf) [[EM]](http://cs229.stanford.edu/notes/cs229-notes8.pdf) [ [[RL]](http://cs229.stanford.edu/notes/cs229-notes12.pdf) [[LQR, DDP and LQG]](http://cs229.stanford.edu/notes/cs229-notes13.pdf) [[Boosting]](http://cs229.stanford.edu/notes/cs229-notes-all/boosting.pdf) [[HMM Notes]](http://cs229.stanford.edu/section/cs229-hmm.pdf) [[Evaluation Metrics]](http://cs229.stanford.edu/section/evaluation_metrics_spring2020.pdf) 
 * Other topics: [[Anomaly Detection]](http://courses.washington.edu/css581/lecture_slides/18_anomaly_detection.pdf) (find better link?)
 
+
+
+
 * Topics:
   * Dimensionality Reduction: [[PCA]](https://arxiv.org/pdf/1404.1100.pdf) [[PCA]](http://cs229.stanford.edu/notes/cs229-notes10.pdf) [[ICA]](http://cs229.stanford.edu/notes/cs229-notes11.pdf) [[Factor Analysis]](http://cs229.stanford.edu/notes/cs229-notes9.pdf)
 
