@@ -26,8 +26,9 @@ Resume
 * Basics: [[Image Classification]](https://cs231n.github.io/classification/) [[Linear Classification]](https://cs231n.github.io/linear-classify/) [[Optimization]](https://cs231n.github.io/optimization-1/)
 * Backprop: [[Backprop]](https://cs231n.github.io/optimization-2/) [[Linear Example]](http://cs231n.stanford.edu/handouts/linear-backprop.pdf) [[Derivatives]](http://cs231n.stanford.edu/handouts/derivatives.pdf) [[Vector Derivatives]](http://cs231n.stanford.edu/vecDerivs.pdf)
 * NNs: [[NN-1]](https://cs231n.github.io/neural-networks-1/) [[NN-2]](https://cs231n.github.io/neural-networks-2/) [[NN-3]](https://cs231n.github.io/neural-networks-2/)
-* CNNs: [[Basics]](https://cs231n.github.io/convolutional-networks/) 
+* CNNs: [[Basics]](https://cs231n.github.io/convolutional-networks/) [[Visualizing CNNs]](https://cs231n.github.io/understanding-cnn/) [[Fine-tuning CNNs]](https://cs231n.github.io/transfer-learning/)
 * RNNs and LSTMs: [[LSTMs]](https://colah.github.io/posts/2015-08-Understanding-LSTMs/) 
+* Batch Norm: [[BN-Training]](https://www.youtube.com/watch?v=nUUqwaxLnWs) [[BN-Testing]](https://www.youtube.com/watch?v=5qefnAek8OA)
 * NLP: [[Word Vectors-I]](http://web.stanford.edu/class/cs224n/readings/cs224n-2019-notes01-wordvecs1.pdf) [[Word Vectors-II]](http://web.stanford.edu/class/cs224n/readings/cs224n-2019-notes02-wordvecs2.pdf) [[NNs]](http://web.stanford.edu/class/cs224n/readings/cs224n-2019-notes03-neuralnets.pdf) [[RNN/LSTM-1]](http://web.stanford.edu/class/cs224n/readings/cs224n-2019-notes05-LM_RNN.pdf) [[Neural Machine Translation, Seq2Seq, Attention]](http://web.stanford.edu/class/cs224n/readings/cs224n-2019-notes06-NMT_seq2seq_attention.pdf)
 * RL: [[Course-David Silver]](https://www.davidsilver.uk/teaching/)
 
