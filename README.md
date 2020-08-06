@@ -23,6 +23,7 @@ Resume
 ---
 ## Deep Learning
 **Resources:**
+* CS231 Assignment Soln Ref: [[ref-tf-1]](https://github.com/MahanFathi/CS231) [[ref-pytorch-1]](https://github.com/srinadhu/CS231n/) [[ref-3]](https://github.com/jariasf/CS231n) [[ref-4]](https://github.com/Arnav0400/CS231n-2019)
 * Basics: [[Image Classification]](https://cs231n.github.io/classification/) [[Linear Classification]](https://cs231n.github.io/linear-classify/) [[Optimization]](https://cs231n.github.io/optimization-1/)
 * Backprop: [[Backprop]](https://cs231n.github.io/optimization-2/) [[Linear Example]](http://cs231n.stanford.edu/handouts/linear-backprop.pdf) [[Derivatives]](http://cs231n.stanford.edu/handouts/derivatives.pdf) [[Vector Derivatives]](http://cs231n.stanford.edu/vecDerivs.pdf)
 * NNs: [[NN-1]](https://cs231n.github.io/neural-networks-1/) [[NN-2]](https://cs231n.github.io/neural-networks-2/) [[NN-3]](https://cs231n.github.io/neural-networks-2/)
