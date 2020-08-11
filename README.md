@@ -27,6 +27,7 @@ Resume
 * Basics: [[Image Classification]](https://cs231n.github.io/classification/) [[Linear Classification]](https://cs231n.github.io/linear-classify/) [[Optimization]](https://cs231n.github.io/optimization-1/)
 * Backprop: [[Backprop]](https://cs231n.github.io/optimization-2/) [[Linear Example]](http://cs231n.stanford.edu/handouts/linear-backprop.pdf) [[Derivatives]](http://cs231n.stanford.edu/handouts/derivatives.pdf) [[Vector Derivatives]](http://cs231n.stanford.edu/vecDerivs.pdf)
 * NNs: [[NN-1]](https://cs231n.github.io/neural-networks-1/) [[NN-2]](https://cs231n.github.io/neural-networks-2/) [[NN-3]](https://cs231n.github.io/neural-networks-2/)
+* Batch Normalization: [[Backward pass using graph]](https://kratzert.github.io/2016/02/12/understanding-the-gradient-flow-through-the-batch-normalization-layer.html) [[Backward pass with derivatives]](http://cthorey.github.io./backpropagation/)
 * CNNs: [[Basics]](https://cs231n.github.io/convolutional-networks/) [[Visualizing CNNs]](https://cs231n.github.io/understanding-cnn/) [[Fine-tuning CNNs]](https://cs231n.github.io/transfer-learning/)
 * RNNs and LSTMs: [[LSTMs]](https://colah.github.io/posts/2015-08-Understanding-LSTMs/) 
 * Batch Norm: [[BN-Training]](https://www.youtube.com/watch?v=nUUqwaxLnWs) [[BN-Testing]](https://www.youtube.com/watch?v=5qefnAek8OA)
