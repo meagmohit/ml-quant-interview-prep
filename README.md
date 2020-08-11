@@ -24,9 +24,9 @@ Resume
 ## Deep Learning
 **Resources:**
 * CS231 Assignment Soln Ref: [[ref-tf-1]](https://github.com/MahanFathi/CS231) [[ref-pytorch-1]](https://github.com/srinadhu/CS231n/) [[ref-3]](https://github.com/jariasf/CS231n) [[ref-4]](https://github.com/Arnav0400/CS231n-2019)
-* Basics: [[Image Classification]](https://cs231n.github.io/classification/) [[Linear Classification]](https://cs231n.github.io/linear-classify/) [[Optimization]](https://cs231n.github.io/optimization-1/)
-* Backprop: [[Backprop]](https://cs231n.github.io/optimization-2/) [[Linear Example]](http://cs231n.stanford.edu/handouts/linear-backprop.pdf) [[Derivatives]](http://cs231n.stanford.edu/handouts/derivatives.pdf) [[Vector Derivatives]](http://cs231n.stanford.edu/vecDerivs.pdf)
-* NNs: [[NN-1]](https://cs231n.github.io/neural-networks-1/) [[NN-2]](https://cs231n.github.io/neural-networks-2/) [[NN-3]](https://cs231n.github.io/neural-networks-2/)
+* Basics/Losses: [[Image Classification]](https://cs231n.github.io/classification/) [[Linear Classification]](https://cs231n.github.io/linear-classify/)
+* Backprop: [[Optimization-1]](https://cs231n.github.io/optimization-1/) [[Optimization-2]](https://cs231n.github.io/optimization-2/) [[Optimizing GD]](https://ruder.io/optimizing-gradient-descent/) [[Appendix1:Linear Example]](http://cs231n.stanford.edu/handouts/linear-backprop.pdf) [[Appendix2:Derivatives]](http://cs231n.stanford.edu/handouts/derivatives.pdf) [[Appendix3:Vector Derivatives]](http://cs231n.stanford.edu/vecDerivs.pdf)
+* NNs: [[NN-1]](https://cs231n.github.io/neural-networks-1/) [[NN-2]](https://cs231n.github.io/neural-networks-2/) [[NN-3]](https://cs231n.github.io/neural-networks-2/) [[NN-case study]](https://cs231n.github.io/neural-networks-case-study/)
 * Batch Normalization: [[Backward pass using graph]](https://kratzert.github.io/2016/02/12/understanding-the-gradient-flow-through-the-batch-normalization-layer.html) [[Backward pass with derivatives]](http://cthorey.github.io./backpropagation/)
 * CNNs: [[Basics]](https://cs231n.github.io/convolutional-networks/) [[Visualizing CNNs]](https://cs231n.github.io/understanding-cnn/) [[Fine-tuning CNNs]](https://cs231n.github.io/transfer-learning/)
 * RNNs and LSTMs: [[LSTMs]](https://colah.github.io/posts/2015-08-Understanding-LSTMs/) 
