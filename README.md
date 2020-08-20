@@ -31,7 +31,7 @@ Resume
 * CNNs: [[Basics]](https://cs231n.github.io/convolutional-networks/) [[Visualizing CNNs]](https://cs231n.github.io/understanding-cnn/) [[Fine-tuning CNNs]](https://cs231n.github.io/transfer-learning/)
 * RNNs and LSTMs: [[LSTMs]](https://colah.github.io/posts/2015-08-Understanding-LSTMs/) 
 * NLP: [[Word Vectors-I]](http://web.stanford.edu/class/cs224n/readings/cs224n-2019-notes01-wordvecs1.pdf) [[Word Vectors-II]](http://web.stanford.edu/class/cs224n/readings/cs224n-2019-notes02-wordvecs2.pdf) [[NNs]](http://web.stanford.edu/class/cs224n/readings/cs224n-2019-notes03-neuralnets.pdf) [[RNN/LSTM-1]](http://web.stanford.edu/class/cs224n/readings/cs224n-2019-notes05-LM_RNN.pdf) [[Neural Machine Translation, Seq2Seq, Attention]](http://web.stanford.edu/class/cs224n/readings/cs224n-2019-notes06-NMT_seq2seq_attention.pdf)
-* RL: [[Course-David Silver]](https://www.davidsilver.uk/teaching/)
+* RL: [[Basics: David Silver Course](https://www.davidsilver.uk/teaching/) Deep RL - DQN and variants: [[1]](https://greentec.github.io/reinforcement-learning-first-en/) [[2]](https://medium.com/@awjuliani/simple-reinforcement-learning-with-tensorflow-part-4-deep-q-networks-and-beyond-8438a3e2b8df) [[3-PER]](https://danieltakeshi.github.io/2019/07/14/per/) [[RL-Hard]](https://www.alexirpan.com/2018/02/14/rl-hard.html)
 
 ToDO: Add (i)Other networks like BiGRU etc-- find a summary article, (ii) VAEs/GANs, (iii) Word2VEc, and word representations, (iv) implementation of basic models of MNIST/CIFAR-10 models using python for NNs and CNNs, char-rnn models for LSTM, RL playing game model, (v) batch norm
 
