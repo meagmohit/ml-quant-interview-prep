@@ -5,7 +5,7 @@ Preparation material and resources for the ML (including DL) and Quant Research 
 ## Topics [ML-Standard]
 --- 
 * Optimization in NNs: [[CS231n-opt1]](https://cs231n.github.io/optimization-1/) [[CS231n-opt2]](https://cs231n.github.io/optimization-2/) [[Opt-Algos]](https://ruder.io/optimizing-gradient-descent/)
-* Basics and NNs: [[CS231n-classify-1]](https://cs231n.github.io/classification/) [[CS231n-classify-2]](https://cs231n.github.io/linear-classify/) [[CS231n-nn1]](https://cs231n.github.io/neural-networks-1/) [[CS231n-nn2]](https://cs231n.github.io/neural-networks-2/) [[CS231n-nn3]](https://cs231n.github.io/neural-networks-3/)
+* Basics and NNs: [[CS231n-classify-1]](https://cs231n.github.io/classification/) [[CS231n-classify-2]](https://cs231n.github.io/linear-classify/) [[CS231n-nn1]](https://cs231n.github.io/neural-networks-1/) [[CS231n-nn2]](https://cs231n.github.io/neural-networks-2/) [[CS231n-nn3]](https://cs231n.github.io/neural-networks-3/) [[L1/L2-explained]](https://explained.ai/regularization/index.html) [[Dropout-explained]](https://towardsdatascience.com/simplified-math-behind-dropout-in-deep-learning-6d50f3f47275)
 
 
 
