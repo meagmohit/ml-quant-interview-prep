@@ -1,7 +1,17 @@
 # Resources for Interview Preparation
 Preparation material and resources for the ML (including DL) and Quant Research interviews
-Resume 
 --- 
+
+## Topics [ML-Standard]
+--- 
+* Optimization in NNs: [[CS231n-opt1]](https://cs231n.github.io/optimization-1/) [[CS231n-opt2]](https://cs231n.github.io/optimization-2/)
+
+
+
+
+
+## Old [Archive]
+---
 
 ## Data Structures and Algorithms
 * Basic DS and Algo in Python [[Online Book]](https://runestone.academy/runestone/books/published/pythonds/index.html)
@@ -57,3 +67,5 @@ unsorted links:
 # Comprehensive Topic List
 **DS/Algorithms:** Recursion, DP, Strings, ...
 **Statistics in Python:** [[Short-pyStats]](https://realpython.com/python-statistics/) [[Long-pystats]](http://people.duke.edu/~ccc14/sta-663-2017/01_Introduction_To_Python.html) [[Coursera]](https://www.coursera.org/learn/inferential-statistical-analysis-python/supplement/iDA5p/about-our-datasets)
+
+
