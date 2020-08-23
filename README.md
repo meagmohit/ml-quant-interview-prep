@@ -5,6 +5,7 @@ Preparation material and resources for the ML (including DL) and Quant Research 
 ## Topics [ML-Standard]
 --- 
 * Optimization in NNs: [[CS231n-opt1]](https://cs231n.github.io/optimization-1/) [[CS231n-opt2]](https://cs231n.github.io/optimization-2/)
+* Basics and NNs: [[CS231n-classify-1]](https://cs231n.github.io/classification/) [[CS231n-classify-2]](https://cs231n.github.io/linear-classify/) [[CS231n-nn1]](https://cs231n.github.io/neural-networks-1/) [[CS231n-nn2]](https://cs231n.github.io/neural-networks-2/) [[CS231n-nn3]](https://cs231n.github.io/neural-networks-3/)
 
 
 
