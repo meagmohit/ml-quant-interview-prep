@@ -12,7 +12,9 @@ Preparation material and resources for the ML (including DL) and Quant Research 
 ---
 * Multi-variate Gaussians:  [[Gaussians-1]](http://cs229.stanford.edu/section/cs229-moregaussians.pdf) [[Gaussians-2]](http://cs229.stanford.edu/section/cs229-gaussians.pdf)
 
-
+## Topics [Development/Python]
+---
+* Python call by value or reference? [[1]](http://foobarnbaz.com/2012/07/08/understanding-python-variables/) [[2]](https://jeffknupp.com/blog/2012/11/13/is-python-callbyvalue-or-callbyreference-neither/) [[3]](http://stupidpythonideas.blogspot.com/2013/11/does-python-pass-by-value-or-by.html) [[4]](https://robertheaton.com/2014/02/09/pythons-pass-by-object-reference-as-explained-by-philip-k-dick/)
 
 ## Old [Archive]
 ---
