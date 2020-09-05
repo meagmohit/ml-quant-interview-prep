@@ -9,6 +9,7 @@ Preparation material and resources for the ML (including DL) and Quant Research 
 * Batch Normalization: [[Backward pass using graph]](https://kratzert.github.io/2016/02/12/understanding-the-gradient-flow-through-the-batch-normalization-layer.html) [[Backward pass with derivatives]](http://cthorey.github.io./backpropagation/) [[Video: BN-Training]](https://www.youtube.com/watch?v=nUUqwaxLnWs) [[Video: BN-Testing]](https://www.youtube.com/watch?v=5qefnAek8OA)
 * Decision Trees/Random Forests: [ISLR Chap-8]
 * Principal Component Analysis: [[PCA Tutorial]](https://arxiv.org/pdf/1404.1100.pdf) [ISLR 10.2] [[PCA-2]](http://cs229.stanford.edu/notes/cs229-notes10.pdf)
+* Clustering: [ISLR Chap-10] [[k-means]](http://cs229.stanford.edu/notes/cs229-notes7a.pdf) [[Clustering-CMU]](http://www.cs.cmu.edu/~ninamf/courses/601sp15/slides/21_clustering_4-6-2015.pdf) 
 ## Topics [Maths/Probs/Stats]
 ---
 * Multi-variate Gaussians:  [[Gaussians-1]](http://cs229.stanford.edu/section/cs229-moregaussians.pdf) [[Gaussians-2]](http://cs229.stanford.edu/section/cs229-gaussians.pdf)
