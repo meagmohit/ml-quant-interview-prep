@@ -16,6 +16,7 @@ Preparation material and resources for the ML (including DL) and Quant Research 
 ## Topics [Development/Python]
 ---
 * Python call by value or reference? [[1]](http://foobarnbaz.com/2012/07/08/understanding-python-variables/) [[2]](https://jeffknupp.com/blog/2012/11/13/is-python-callbyvalue-or-callbyreference-neither/) [[3]](http://stupidpythonideas.blogspot.com/2013/11/does-python-pass-by-value-or-by.html) [[4]](https://robertheaton.com/2014/02/09/pythons-pass-by-object-reference-as-explained-by-philip-k-dick/)
+* How does Python work? Interpreter vs Compiler? [[1]](https://www.codingdojo.com/blog/interpreters-run-python-code) [[2]](https://towardsdatascience.com/how-does-python-work-6f21fd197888)
 
 ## Old [Archive]
 ---
