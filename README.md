@@ -58,7 +58,7 @@ unsorted links:
 1. charrnn: http://karpathy.github.io/2015/05/21/rnn-effectiveness/
 2. https://deepgenerativemodels.github.io/notes/vae/
 3. MS_Sharma links
-
+4. Really great Stats/ML: http://www.stat.cmu.edu/~cshalizi/uADA/12/
 
 ---
 ## Mathematics
