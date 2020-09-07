@@ -22,6 +22,10 @@ Preparation material and resources for the ML (including DL) and Quant Research 
 * How does Python work? Interpreter vs Compiler? [[1]](https://www.codingdojo.com/blog/interpreters-run-python-code) [[2]](https://towardsdatascience.com/how-does-python-work-6f21fd197888)
 * Memory Management in Python: [[1]](https://www.geeksforgeeks.org/memory-management-in-python/)
 
+## System Design
+---
+* ML System Design: [[1]](https://github.com/chiphuyen/machine-learning-systems-design/blob/master/build/build1/consolidated.pdf)
+
 ## Old [Archive]
 ---
 
