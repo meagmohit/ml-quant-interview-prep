@@ -15,7 +15,7 @@ Preparation material and resources for the ML (including DL) and Quant Research 
 ---
 * Multi-variate Gaussians:  [[Gaussians-1]](http://cs229.stanford.edu/section/cs229-moregaussians.pdf) [[Gaussians-2]](http://cs229.stanford.edu/section/cs229-gaussians.pdf)
 * Sampling: [[CDF-INV]](https://ocw.mit.edu/resources/res-6-012-introduction-to-probability-spring-2018/part-i-the-fundamentals/simulation/) [[Box-Mueller/Marsaglia-Polar]](https://www.alanzucconi.com/2015/09/16/how-to-sample-from-a-gaussian-distribution/) [[Detailed Maths]](https://statweb.stanford.edu/~owen/mc/Ch-nonunifrng.pdf) [[Gaussian-Inv,BM]](https://www.alanzucconi.com/2015/09/16/how-to-sample-from-a-gaussian-distribution/)
-* Sample Mean/variances of Gaussian: [[Distribution of sample variance]](https://online.stat.psu.edu/stat414/lesson/26/26.4)
+* Sample Mean/variances of Gaussian: [[Distribution of sample variance]](https://online.stat.psu.edu/stat414/lesson/26/26.4) [[Sampling uniformly on sphere]](http://corysimon.github.io/articles/uniformdistn-on-sphere/)
 
 ## Topics [Development/Python]
 ---
