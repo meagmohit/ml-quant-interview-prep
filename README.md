@@ -11,6 +11,8 @@ Preparation material and resources for the ML (including DL) and Quant Research 
 * Principal Component Analysis(PCA): [[PCA Tutorial]](https://arxiv.org/pdf/1404.1100.pdf) [ISLR 10.2] [[PCA-2]](http://cs229.stanford.edu/notes/cs229-notes10.pdf)
 * Clustering: [ISLR Chap-10] [[k-means]](http://cs229.stanford.edu/notes/cs229-notes7a.pdf) [[Clustering-CMU]](http://www.cs.cmu.edu/~ninamf/courses/601sp15/slides/21_clustering_4-6-2015.pdf) 
 * ICA/FA: [[ICA]](http://cs229.stanford.edu/notes/cs229-notes11.pdf) [[FA]](http://cs229.stanford.edu/notes/cs229-notes9.pdf)
+* Classification: [[ISLR-Chap4]] [[LR/NB]](http://www.cs.cmu.edu/~tom/mlbook/NBayesLogReg.pdf)
+* Regression: [[ISLR-Chap3]]
 ## Topics [Maths/Probs/Stats]
 ---
 * Multi-variate Gaussians:  [[Gaussians-1]](http://cs229.stanford.edu/section/cs229-moregaussians.pdf) [[Gaussians-2]](http://cs229.stanford.edu/section/cs229-gaussians.pdf)
