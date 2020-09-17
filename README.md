@@ -24,7 +24,7 @@ Preparation material and resources for the ML (including DL) and Quant Research 
 ## Topics [DL]
 ---
 * CNNs: [[Basics]](https://cs231n.github.io/convolutional-networks/) [[Visualizing CNNs]](https://cs231n.github.io/understanding-cnn/) [[Fine-tuning CNNs]](https://cs231n.github.io/transfer-learning/) [[CNN Backprop/Architectures Chap8]](http://snasiriany.me/files/ml-book.pdf)
-* NLP: [[Word Embeddings/Word2Vec]](http://web.stanford.edu/class/cs224n/readings/cs224n-2019-notes01-wordvecs1.pdf)
+* NLP: [[Word Embeddings/Word2Vec]](http://web.stanford.edu/class/cs224n/readings/cs224n-2019-notes01-wordvecs1.pdf) [[LSTM-1]](http://colah.github.io/posts/2015-08-Understanding-LSTMs/) [[LSTM-2]](https://medium.com/datadriveninvestor/how-do-lstm-networks-solve-the-problem-of-vanishing-gradients-a6784971a577#:~:text=LSTMs%20solve%20the%20problem%20using,step%20of%20the%20learning%20process.) [[LSTM-3]](https://weberna.github.io/blog/2017/11/15/LSTM-Vanishing-Gradients.html)
 ## Topics [Development/Python]
 ---
 * Python call by value or reference? [[1]](http://foobarnbaz.com/2012/07/08/understanding-python-variables/) [[2]](https://jeffknupp.com/blog/2012/11/13/is-python-callbyvalue-or-callbyreference-neither/) [[3]](http://stupidpythonideas.blogspot.com/2013/11/does-python-pass-by-value-or-by.html) [[4]](https://robertheaton.com/2014/02/09/pythons-pass-by-object-reference-as-explained-by-philip-k-dick/)
