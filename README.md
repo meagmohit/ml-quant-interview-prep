@@ -13,6 +13,7 @@ Preparation material and resources for the ML (including DL) and Quant Research 
 * ICA/FA: [[ICA]](http://cs229.stanford.edu/notes/cs229-notes11.pdf) [[FA]](http://cs229.stanford.edu/notes/cs229-notes9.pdf)
 * Classification: [[ISLR-Chap4]] [[LR/NB]](http://www.cs.cmu.edu/~tom/mlbook/NBayesLogReg.pdf)
 * Regression: [[ISLR-Chap3]]
+
 ## Topics [Maths/Probs/Stats]
 ---
 * Multi-variate Gaussians:  [[Gaussians-1]](http://cs229.stanford.edu/section/cs229-moregaussians.pdf) [[Gaussians-2]](http://cs229.stanford.edu/section/cs229-gaussians.pdf)
@@ -22,6 +23,7 @@ Preparation material and resources for the ML (including DL) and Quant Research 
 ## Topics [DL]
 ---
 * CNNs: [[Basics]](https://cs231n.github.io/convolutional-networks/) [[Visualizing CNNs]](https://cs231n.github.io/understanding-cnn/) [[Fine-tuning CNNs]](https://cs231n.github.io/transfer-learning/) [[CNN Backprop/Architectures Chap8]](http://snasiriany.me/files/ml-book.pdf)
+* NLP: [[Word Embeddings/Word2Vec]](http://web.stanford.edu/class/cs224n/readings/cs224n-2019-notes01-wordvecs1.pdf)
 ## Topics [Development/Python]
 ---
 * Python call by value or reference? [[1]](http://foobarnbaz.com/2012/07/08/understanding-python-variables/) [[2]](https://jeffknupp.com/blog/2012/11/13/is-python-callbyvalue-or-callbyreference-neither/) [[3]](http://stupidpythonideas.blogspot.com/2013/11/does-python-pass-by-value-or-by.html) [[4]](https://robertheaton.com/2014/02/09/pythons-pass-by-object-reference-as-explained-by-philip-k-dick/)
