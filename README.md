@@ -13,6 +13,7 @@ Preparation material and resources for the ML (including DL) and Quant Research 
 * ICA/FA: [[ICA]](http://cs229.stanford.edu/notes/cs229-notes11.pdf) [[FA]](http://cs229.stanford.edu/notes/cs229-notes9.pdf)
 * Classification: [[ISLR-Chap4]] [[LR/NB]](http://www.cs.cmu.edu/~tom/mlbook/NBayesLogReg.pdf)
 * Regression: [[ISLR-Chap3]]
+* Boosting: [[Adaboost]](https://www.cs.princeton.edu/~schapire/talks/nips-tutorial.pdf) [[Gradient Boosting-1]](https://www.gormanalysis.com/blog/gradient-boosting-explained/) [[Gradient Boosting-2]](https://explained.ai/gradient-boosting/index.html)
 
 ## Topics [Maths/Probs/Stats]
 ---
