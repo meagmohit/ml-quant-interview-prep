@@ -37,6 +37,11 @@ Preparation material and resources for the ML (including DL) and Quant Research 
 ---
 * ML System Design: [[1]](https://github.com/chiphuyen/machine-learning-systems-design/blob/master/build/build1/consolidated.pdf)
 
+
+## Additional Resources
+--- 
+* Comprehensive ML Book from Berkley CS189 Course: [[1]](http://snasiriany.me/cs189/)
+
 ## Old [Archive]
 ---
 
