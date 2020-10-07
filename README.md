@@ -14,6 +14,7 @@ Preparation material and resources for the ML (including DL) and Quant Research 
 * Classification: [[ISLR-Chap4]] [[LR/NB]](http://www.cs.cmu.edu/~tom/mlbook/NBayesLogReg.pdf)
 * Regression: [[ISLR-Chap3]]
 * Boosting: [[Adaboost]](https://www.cs.princeton.edu/~schapire/talks/nips-tutorial.pdf) [[Gradient Boosting-1]](https://www.gormanalysis.com/blog/gradient-boosting-explained/) [[Gradient Boosting-2]](https://explained.ai/gradient-boosting/index.html)
+* SVM: [Very Detailed Tutorial from Microsoft](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/svmtutorial.pdf)
 
 ## Topics [Maths/Probs/Stats]
 ---
