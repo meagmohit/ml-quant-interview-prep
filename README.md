@@ -31,6 +31,7 @@ Preparation material and resources for the ML (including DL) and Quant Research 
 * CNNs: [[Basics]](https://cs231n.github.io/convolutional-networks/) [[Visualizing CNNs]](https://cs231n.github.io/understanding-cnn/) [[Fine-tuning CNNs]](https://cs231n.github.io/transfer-learning/) [[CNN Backprop/Architectures Chap8]](http://snasiriany.me/files/ml-book.pdf)
 * NLP: [[Word Embeddings/Word2Vec]](http://web.stanford.edu/class/cs224n/readings/cs224n-2019-notes01-wordvecs1.pdf) [[LSTM-1]](http://colah.github.io/posts/2015-08-Understanding-LSTMs/) [[LSTM-2]](https://medium.com/datadriveninvestor/how-do-lstm-networks-solve-the-problem-of-vanishing-gradients-a6784971a577#:~:text=LSTMs%20solve%20the%20problem%20using,step%20of%20the%20learning%20process.) [[LSTM-3]](https://weberna.github.io/blog/2017/11/15/LSTM-Vanishing-Gradients.html)
 * DQN: [[Understanding Deep-Q Networks]](https://danieltakeshi.github.io/2016/12/01/going-deeper-into-reinforcement-learning-understanding-dqn/) [[Understanding PER]](https://danieltakeshi.github.io/2019/07/14/per/) [[Rainbow is all you need]](https://github.com/Curt-Park/rainbow-is-all-you-need) 
+* Frameworks: [[Tensorflow/Pytorch brushup]](http://cs231n.stanford.edu/slides/2020/lecture_6.pdf)
 ## Topics [Development/Python]
 ---
 * Python call by value or reference? [[1]](http://foobarnbaz.com/2012/07/08/understanding-python-variables/) [[2]](https://jeffknupp.com/blog/2012/11/13/is-python-callbyvalue-or-callbyreference-neither/) [[3]](http://stupidpythonideas.blogspot.com/2013/11/does-python-pass-by-value-or-by.html) [[4]](https://robertheaton.com/2014/02/09/pythons-pass-by-object-reference-as-explained-by-philip-k-dick/)
@@ -108,6 +109,9 @@ unsorted links:
 **DS/Algorithms:** Recursion, DP, Strings, ...
 **Statistics in Python:** [[Short-pyStats]](https://realpython.com/python-statistics/) [[Long-pystats]](http://people.duke.edu/~ccc14/sta-663-2017/01_Introduction_To_Python.html) [[Coursera]](https://www.coursera.org/learn/inferential-statistical-analysis-python/supplement/iDA5p/about-our-datasets)
 
+## Cheat Sheets
+1. [[Probability]](https://static1.squarespace.com/static/54bf3241e4b0f0d81bf7ff36/t/55e9494fe4b011aed10e48e5/1441352015658/probability_cheatsheet.pdf)
+2. [[Linear Algebra]](https://towardsdatascience.com/linear-algebra-cheat-sheet-for-deep-learning-cd67aba4526c)
 
 
 ## Negotiation
