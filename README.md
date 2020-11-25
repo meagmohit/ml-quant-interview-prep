@@ -9,13 +9,15 @@ Preparation material and resources for the ML (including DL) and Quant Research 
 * Batch Normalization: [[Backward pass using graph]](https://kratzert.github.io/2016/02/12/understanding-the-gradient-flow-through-the-batch-normalization-layer.html) [[Backward pass with derivatives]](http://cthorey.github.io./backpropagation/) [[Video: BN-Training]](https://www.youtube.com/watch?v=nUUqwaxLnWs) [[Video: BN-Testing]](https://www.youtube.com/watch?v=5qefnAek8OA)
 * Decision Trees/Random Forests: [ISLR Chap-8]
 * Principal Component Analysis(PCA): [[PCA Tutorial]](https://arxiv.org/pdf/1404.1100.pdf) [ISLR 10.2] [[PCA-2]](http://cs229.stanford.edu/notes/cs229-notes10.pdf)
-* Clustering: [ISLR Chap-10] [[k-means]](http://cs229.stanford.edu/notes/cs229-notes7a.pdf) [[Clustering-CMU]](http://www.cs.cmu.edu/~ninamf/courses/601sp15/slides/21_clustering_4-6-2015.pdf) 
+* Clustering: [ISLR Chap-10] [[k-means]](http://cs229.stanford.edu/notes/cs229-notes7a.pdf) [[Clustering-CMU]](http://www.cs.cmu.edu/~ninamf/courses/601sp15/slides/21_clustering_4-6-2015.pdf) [[kNNs: Pros/Cons]](https://www.fromthegenesis.com/pros-and-cons-of-k-nearest-neighbors/)
 * ICA/FA: [[ICA]](http://cs229.stanford.edu/notes/cs229-notes11.pdf) [[FA]](http://cs229.stanford.edu/notes/cs229-notes9.pdf)
 * Classification: [[ISLR-Chap4]] [[LR/NB]](http://www.cs.cmu.edu/~tom/mlbook/NBayesLogReg.pdf)
 * Regression: [[ISLR-Chap3]]
-* Boosting: [[Adaboost]](https://www.cs.princeton.edu/~schapire/talks/nips-tutorial.pdf) [[Gradient Boosting-1]](https://www.gormanalysis.com/blog/gradient-boosting-explained/) [[Gradient Boosting-2]](https://explained.ai/gradient-boosting/index.html) [[LightGBM/XGBoost]](https://mlexplained.com/2018/01/05/lightgbm-and-xgboost-explained/)
+* Boosting: [[Adaboost]](https://www.cs.princeton.edu/~schapire/talks/nips-tutorial.pdf) [[Gradient Boosting-1]](https://www.gormanalysis.com/blog/gradient-boosting-explained/) [[Gradient Boosting-2]](https://explained.ai/gradient-boosting/index.html) [[LightGBM/XGBoost]](https://mlexplained.com/2018/01/05/lightgbm-and-xgboost-explained/) [[GBM regression]](http://uc-r.github.io/gbm_regression) [[GB-2]](https://medium.com/mlreview/gradient-boosting-from-scratch-1e317ae4587d)
 * SVM: [[Very Detailed Tutorial from Microsoft]](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/svmtutorial.pdf)
 * EM: [[EM]](https://dingran.github.io/EM/) 
+* Bootstrap: [[Bootstrapping in R]](https://medium.com/data-science-reporter/the-bootstrap-the-swiss-army-knife-of-any-data-scientist-acd6e592be13)
+* Supplemental Readings: [[KDNuggets:10 statistical techniques]](https://www.kdnuggets.com/2017/11/10-statistical-techniques-data-scientists-need-master.html/2)
 
 ## Topics [Maths/Probs/Stats]
 ---
@@ -50,8 +52,9 @@ Preparation material and resources for the ML (including DL) and Quant Research 
 ## Additional Resources
 --- 
 * Comprehensive ML Book from Berkley CS189 Course: [[1]](http://snasiriany.me/cs189/)
-* [[What Every Computer Scientist Should Know About Floating-Point Arithmetic
-]](https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html)
+* [[What Every Computer Scientist Should Know About Floating-Point Arithmetic]](https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html)
+* [[Feature Engineering]](https://towardsdatascience.com/feature-engineering-for-machine-learning-3a5e293a5114) [[Data Cleaning]](https://towardsdatascience.com/the-ultimate-guide-to-data-cleaning-3969843991d4) 
+
 
 ## Old [Archive]
 ---
@@ -91,6 +94,7 @@ unsorted links:
 2. https://deepgenerativemodels.github.io/notes/vae/
 3. MS_Sharma links
 4. Really great Stats/ML: http://www.stat.cmu.edu/~cshalizi/uADA/12/
+5. Data Scientist Interview links: https://github.com/ml874/Cracking-the-Data-Science-Interview
 
 ---
 ## Mathematics
