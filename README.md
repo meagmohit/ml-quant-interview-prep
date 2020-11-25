@@ -13,7 +13,7 @@ Preparation material and resources for the ML (including DL) and Quant Research 
 * ICA/FA: [[ICA]](http://cs229.stanford.edu/notes/cs229-notes11.pdf) [[FA]](http://cs229.stanford.edu/notes/cs229-notes9.pdf)
 * Classification: [[ISLR-Chap4]] [[LR/NB]](http://www.cs.cmu.edu/~tom/mlbook/NBayesLogReg.pdf)
 * Regression: [[ISLR-Chap3]]
-* Boosting: [[Adaboost]](https://www.cs.princeton.edu/~schapire/talks/nips-tutorial.pdf) [[Gradient Boosting-1]](https://www.gormanalysis.com/blog/gradient-boosting-explained/) [[Gradient Boosting-2]](https://explained.ai/gradient-boosting/index.html)
+* Boosting: [[Adaboost]](https://www.cs.princeton.edu/~schapire/talks/nips-tutorial.pdf) [[Gradient Boosting-1]](https://www.gormanalysis.com/blog/gradient-boosting-explained/) [[Gradient Boosting-2]](https://explained.ai/gradient-boosting/index.html) [[LightGBM/XGBoost]](https://mlexplained.com/2018/01/05/lightgbm-and-xgboost-explained/)
 * SVM: [[Very Detailed Tutorial from Microsoft]](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/svmtutorial.pdf)
 * EM: [[EM]](https://dingran.github.io/EM/) 
 
@@ -23,6 +23,8 @@ Preparation material and resources for the ML (including DL) and Quant Research 
 * Sampling: [[CDF-INV]](https://ocw.mit.edu/resources/res-6-012-introduction-to-probability-spring-2018/part-i-the-fundamentals/simulation/) [[Box-Mueller/Marsaglia-Polar]](https://www.alanzucconi.com/2015/09/16/how-to-sample-from-a-gaussian-distribution/) [[Detailed Maths]](https://statweb.stanford.edu/~owen/mc/Ch-nonunifrng.pdf) [[Gaussian-Inv,BM]](https://www.alanzucconi.com/2015/09/16/how-to-sample-from-a-gaussian-distribution/) [[Sampling uniformly on sphere]](http://corysimon.github.io/articles/uniformdistn-on-sphere/)
 * Sample Mean/variances of Gaussian: [[Distribution of sample variance]](https://online.stat.psu.edu/stat414/lesson/26/26.3) 
 * Hypothesis Testing: [[Summary]]()https://www.csus.edu/indiv/j/jgehrman/courses/stat50/hypthesistests/9hyptest.htm
+* A/B Testing: [[1]](https://towardsdatascience.com/the-math-behind-a-b-testing-with-example-code-part-1-of-2-7be752e1d06f) [[2]](https://www.tutorialspoint.com/ab_testing/ab_testing_how_it_works.htm) [[3]](https://blog.hubspot.com/marketing/how-to-do-a-b-testing) [[4]](https://www.optimizely.com/optimization-glossary/ab-testing/) [[5]](https://classroom.udacity.com/courses/ud257) [[6]](https://www.crazyegg.com/blog/ab-testing-google-analytics/)
+* Supplemental Readings: [[Cantor’s Diagonalization argument]](https://jlmartin.ku.edu/~jlmartin/courses/math410-S09/cantor.pdf)  
 
 ## Topics [DL]
 ---
@@ -39,7 +41,9 @@ Preparation material and resources for the ML (including DL) and Quant Research 
 
 ## System Design
 ---
-* ML System Design: [[1]](https://github.com/chiphuyen/machine-learning-systems-design/blob/master/build/build1/consolidated.pdf)
+* ML System Design: [[Consolidated resource from chiphuyen]](https://github.com/chiphuyen/machine-learning-systems-design/blob/master/build/build1/consolidated.pdf) [[Facebook's ML system series]](https://research.fb.com/the-facebook-field-guide-to-machine-learning-video-series/) [[Leetcode Discuss]](https://leetcode.com/discuss/interview-question/system-design/566057/machine-learning-system-design-a-framework-for-the-interview-day) 
+* System Design: [[1]](https://towardsdatascience.com/the-complete-guide-to-the-system-design-interview-ba118f48bdfc) 
+* Supplementary Readings: [[A Recipe for Training Neural Networks]](http://karpathy.github.io/2019/04/25/recipe/)
 
 
 ## Additional Resources
