@@ -26,6 +26,7 @@ Preparation material and resources for the ML (including DL) and Quant Research 
 * Sample Mean/variances of Gaussian: [[Distribution of sample variance]](https://online.stat.psu.edu/stat414/lesson/26/26.3) 
 * Hypothesis Testing: [[Summary]]()https://www.csus.edu/indiv/j/jgehrman/courses/stat50/hypthesistests/9hyptest.htm
 * A/B Testing: [[1]](https://towardsdatascience.com/the-math-behind-a-b-testing-with-example-code-part-1-of-2-7be752e1d06f) [[2]](https://www.tutorialspoint.com/ab_testing/ab_testing_how_it_works.htm) [[3]](https://blog.hubspot.com/marketing/how-to-do-a-b-testing) [[4]](https://www.optimizely.com/optimization-glossary/ab-testing/) [[5]](https://classroom.udacity.com/courses/ud257) [[6]](https://www.crazyegg.com/blog/ab-testing-google-analytics/)
+* Martingale: [[1]](https://www.cs.yale.edu/homes/aspnes/pinewiki/Martingales.html) [[2]](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-262-discrete-stochastic-processes-spring-2011/course-notes/MIT6_262S11_chap07.pdf) [[3]](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/readings/MIT6_042JF10_chap20.pdf) [[4]](https://www.math.arizona.edu/~faris/martpics.pdf)
 * Supplemental Readings: [[Cantor’s Diagonalization argument]](https://jlmartin.ku.edu/~jlmartin/courses/math410-S09/cantor.pdf)  
 
 ## Topics [DL]
@@ -95,6 +96,7 @@ unsorted links:
 3. MS_Sharma links
 4. Really great Stats/ML: http://www.stat.cmu.edu/~cshalizi/uADA/12/
 5. Data Scientist Interview links: https://github.com/ml874/Cracking-the-Data-Science-Interview
+6. https://sebastianraschka.com/faq/docs/
 
 ---
 ## Mathematics
