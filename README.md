@@ -15,12 +15,14 @@ Preparation material and resources for the ML (including DL) and Quant Research 
 * Regression: [[ISLR-Chap3]]
 * Boosting: [[Adaboost]](https://www.cs.princeton.edu/~schapire/talks/nips-tutorial.pdf) [[Gradient Boosting-1]](https://www.gormanalysis.com/blog/gradient-boosting-explained/) [[Gradient Boosting-2]](https://explained.ai/gradient-boosting/index.html)
 * SVM: [[Very Detailed Tutorial from Microsoft]](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/svmtutorial.pdf)
+* EM: [[EM]](https://dingran.github.io/EM/) 
 
 ## Topics [Maths/Probs/Stats]
 ---
 * Multi-variate Gaussians:  [[Gaussians-1]](http://cs229.stanford.edu/section/cs229-moregaussians.pdf) [[Gaussians-2]](http://cs229.stanford.edu/section/cs229-gaussians.pdf)
 * Sampling: [[CDF-INV]](https://ocw.mit.edu/resources/res-6-012-introduction-to-probability-spring-2018/part-i-the-fundamentals/simulation/) [[Box-Mueller/Marsaglia-Polar]](https://www.alanzucconi.com/2015/09/16/how-to-sample-from-a-gaussian-distribution/) [[Detailed Maths]](https://statweb.stanford.edu/~owen/mc/Ch-nonunifrng.pdf) [[Gaussian-Inv,BM]](https://www.alanzucconi.com/2015/09/16/how-to-sample-from-a-gaussian-distribution/) [[Sampling uniformly on sphere]](http://corysimon.github.io/articles/uniformdistn-on-sphere/)
 * Sample Mean/variances of Gaussian: [[Distribution of sample variance]](https://online.stat.psu.edu/stat414/lesson/26/26.3) 
+* Hypothesis Testing: [[Summary]]()https://www.csus.edu/indiv/j/jgehrman/courses/stat50/hypthesistests/9hyptest.htm
 
 ## Topics [DL]
 ---
@@ -43,6 +45,8 @@ Preparation material and resources for the ML (including DL) and Quant Research 
 ## Additional Resources
 --- 
 * Comprehensive ML Book from Berkley CS189 Course: [[1]](http://snasiriany.me/cs189/)
+* [[What Every Computer Scientist Should Know About Floating-Point Arithmetic
+]](https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html)
 
 ## Old [Archive]
 ---
