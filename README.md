@@ -25,7 +25,7 @@ Preparation material and resources for the ML (including DL) and Quant Research 
 * Sampling: [[CDF-INV]](https://ocw.mit.edu/resources/res-6-012-introduction-to-probability-spring-2018/part-i-the-fundamentals/simulation/) [[Box-Mueller/Marsaglia-Polar]](https://www.alanzucconi.com/2015/09/16/how-to-sample-from-a-gaussian-distribution/) [[Detailed Maths]](https://statweb.stanford.edu/~owen/mc/Ch-nonunifrng.pdf) [[Gaussian-Inv,BM]](https://www.alanzucconi.com/2015/09/16/how-to-sample-from-a-gaussian-distribution/) [[Sampling uniformly on sphere]](http://corysimon.github.io/articles/uniformdistn-on-sphere/)
 * Sample Mean/variances of Gaussian: [[Distribution of sample variance]](https://online.stat.psu.edu/stat414/lesson/26/26.3) 
 * Hypothesis Testing: [[Summary]]()https://www.csus.edu/indiv/j/jgehrman/courses/stat50/hypthesistests/9hyptest.htm
-* A/B Testing: [[1]](https://towardsdatascience.com/the-math-behind-a-b-testing-with-example-code-part-1-of-2-7be752e1d06f) [[2]](https://www.tutorialspoint.com/ab_testing/ab_testing_how_it_works.htm) [[3]](https://blog.hubspot.com/marketing/how-to-do-a-b-testing) [[4]](https://www.optimizely.com/optimization-glossary/ab-testing/) [[5]](https://classroom.udacity.com/courses/ud257) [[6]](https://www.crazyegg.com/blog/ab-testing-google-analytics/)
+* A/B Testing: [[1]](https://towardsdatascience.com/the-math-behind-a-b-testing-with-example-code-part-1-of-2-7be752e1d06f) [[2]](https://www.tutorialspoint.com/ab_testing/ab_testing_how_it_works.htm) [[3]](https://blog.hubspot.com/marketing/how-to-do-a-b-testing) [[4]](https://www.optimizely.com/optimization-glossary/ab-testing/) [[5]](https://classroom.udacity.com/courses/ud257) [[6]](https://www.crazyegg.com/blog/ab-testing-google-analytics/) [[A/B w/ Python]](https://www.kaggle.com/tammyrotem/ab-tests-with-python) [[2]](https://cosmiccoding.com.au/tutorials/ab_tests)
 * Martingale: [[1]](https://www.cs.yale.edu/homes/aspnes/pinewiki/Martingales.html) [[2]](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-262-discrete-stochastic-processes-spring-2011/course-notes/MIT6_262S11_chap07.pdf) [[3]](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/readings/MIT6_042JF10_chap20.pdf) [[4]](https://www.math.arizona.edu/~faris/martpics.pdf)
 * Supplemental Readings: [[Cantor’s Diagonalization argument]](https://jlmartin.ku.edu/~jlmartin/courses/math410-S09/cantor.pdf)  
 
@@ -52,9 +52,12 @@ Preparation material and resources for the ML (including DL) and Quant Research 
 
 ## Additional Resources
 --- 
+* All of Statistics by Larry Wasserman: [[Book]](https://www.amazon.com/All-Statistics-Statistical-Inference-Springer/dp/1441923225) [[Course Q/A]](http://www.stat.cmu.edu/~larry/=stat325.02/) [[Book sols]](https://github.com/maxwass/all_of_statistics_solns) 
 * Comprehensive ML Book from Berkley CS189 Course: [[1]](http://snasiriany.me/cs189/)
 * [[What Every Computer Scientist Should Know About Floating-Point Arithmetic]](https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html)
 * [[Feature Engineering]](https://towardsdatascience.com/feature-engineering-for-machine-learning-3a5e293a5114) [[Data Cleaning]](https://towardsdatascience.com/the-ultimate-guide-to-data-cleaning-3969843991d4) 
+* [[Learning to Rank]](https://mlexplained.com/2019/05/27/learning-to-rank-explained-with-code/)
+* [[Math 4 ML Book]](http://gwthomas.github.io/docs/math4ml.pdf)
 
 
 ## Old [Archive]
