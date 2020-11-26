@@ -53,11 +53,12 @@ Preparation material and resources for the ML (including DL) and Quant Research 
 ## Additional Resources
 --- 
 * All of Statistics by Larry Wasserman: [[Book]](https://www.amazon.com/All-Statistics-Statistical-Inference-Springer/dp/1441923225) [[Course Q/A]](http://www.stat.cmu.edu/~larry/=stat325.02/) [[Book sols]](https://github.com/maxwass/all_of_statistics_solns) 
-* Comprehensive ML Book from Berkley CS189 Course: [[1]](http://snasiriany.me/cs189/)
+* Comprehensive ML Book from Berkley CS189 Course: [[1]](http://snasiriany.me/cs189/) [[2]](https://www.eecs189.org/resources/) [[3]](http://alvinwan.com/cs189/fa17/)
 * [[What Every Computer Scientist Should Know About Floating-Point Arithmetic]](https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html)
 * [[Feature Engineering]](https://towardsdatascience.com/feature-engineering-for-machine-learning-3a5e293a5114) [[Data Cleaning]](https://towardsdatascience.com/the-ultimate-guide-to-data-cleaning-3969843991d4) 
 * [[Learning to Rank]](https://mlexplained.com/2019/05/27/learning-to-rank-explained-with-code/)
 * [[Math 4 ML Book]](http://gwthomas.github.io/docs/math4ml.pdf)
+* Exams/Assignments of ML courses w/ solutions: https://tbp.berkeley.edu/courses/cs/189/
 
 
 ## Old [Archive]
